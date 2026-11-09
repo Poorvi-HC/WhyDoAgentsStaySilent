@@ -1,0 +1,6 @@
+{
+ "evidence_keys": null,
+ "locked": true,
+ "gemini_model": "gemini-3.5-flash-lite",
+ "haiku_budget_usd": 5.0
+}

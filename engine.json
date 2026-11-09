@@ -1,0 +1,1 @@
+{"engine": "vllm", "base_url": "http://localhost:8000/v1", "model": "Qwen/Qwen3-8B-AWQ", "concurrency": 16}

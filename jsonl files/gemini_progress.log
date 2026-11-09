@@ -1,0 +1,4 @@
+Check Haiku progress with: !tail -5 "/content/drive/MyDrive/swarm_silence/haiku_progress.log"
+  A3-T: 20/20 trials done, 0 failed  (390s)
+Mon Nov  9 04:51:48 2026 {'cell': 'A3-T', 'trials': 20, 'group_escalation': 1.0, 'agent_escalation': 1.0, 'labels': {'ESCALATE_EXT': 45, 'ESCALATE_INT': 15}}
+Mon Nov  9 04:58:19 2026 GEMINI DONE
